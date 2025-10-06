@@ -1,4 +1,4 @@
-This Jupyter notebook sets up a question-answering system for a financial database using LangChain, MySQL, and the Ollama LLM. It automatically converts natural language finance questions into SQL, runs the queries, and produces user-friendly answers.
+[This Jupyter notebook](https://github.com/werowe/LangChainRag/blob/main/pocketsmith-chat.ipynb) sets up a question-answering system for a financial database using LangChain, MySQL, and the Ollama LLM. It automatically converts natural language finance questions into SQL, runs the queries, and produces user-friendly answers.
 
 ---
 
